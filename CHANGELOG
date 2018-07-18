@@ -1,0 +1,32 @@
+# CLIP ChangeLog for dev-perl/CLIP-Mount
+
+*CLIP-Mount-1.0.1-r2 (20 Dec 2013)
+
+  20 Dec 2013; Vincent Strubel <clipos@ssi.gouv.fr>
+  +CLIP-Mount-1.0.1-r2.ebuild, -CLIP-Mount-1.0.1-r1.ebuild:
+  Force rebuild.
+
+*CLIP-Mount-1.0.1-r1 (16 May 2011)
+
+  16 May 2011; Vincent Strubel <clipos@ssi.gouv.fr>
+  +CLIP-Mount-1.0.1-r1.ebuild, -CLIP-Mount-1.0.1.ebuild:
+  Rbump to force rebuild.
+
+*CLIP-Mount-1.0.1 (30 Mar 2011)
+
+  30 Mar 2011; Vincent Strubel <clipos@ssi.gouv.fr>
+  +CLIP-Mount-1.0.1.ebuild, -CLIP-Mount-1.0.ebuild:
+  Add clipmount_root_encrypted test and clipmount_bootdev.
+
+*CLIP-Mount-1.0 (21 Oct 2008)
+
+  21 Oct 2008; Vincent Strubel <clipos@ssi.gouv.fr>
+  +CLIP-Mount-1.0.ebuild, -CLIP-Mount-0.1.ebuild:
+  First 'stable' version, with complete documentation.
+
+*CLIP-Mount-0.1 (25 Aug 2008)
+
+  25 Aug 2008; Vincent Strubel <clipos@ssi.gouv.fr>
+  CLIP-Mount-0.1.ebuild:
+  Initial import. Preliminary version of common mount / umount
+  functions in perl.

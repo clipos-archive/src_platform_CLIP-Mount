@@ -1,0 +1,28 @@
+CLIP::Mount - common CLIP mount / umount functions
+==================================================
+
+Used by dev-perl/CLIP-Mount from CLIP OS.
+
+
+INSTALLATION
+
+To install this module type the following:
+
+   perl Makefile.PL
+   make
+   make test
+   make install
+
+DEPENDENCIES
+
+This module requires these other modules and libraries:
+
+  CLIP::Logger
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2008 by SGDN (Vincent Strubel)
+
+All rights reserved.
+
+
